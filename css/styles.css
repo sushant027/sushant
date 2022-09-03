@@ -128,7 +128,7 @@ h2{
 
 /* rotate iamge */
 .rotate-img{
-	width: 70%;
+	width: 100%;
 	 transform: rotate(10deg);
 }
 .cta{
